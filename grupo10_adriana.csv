@@ -1,0 +1,101 @@
+Nombre;Tipo;Cocina;Valoración;Zona;Capacidad;Año de Apertura;Ticket Medio (€);Hora de Apertura;Hora de Cierre;Método de Pago;Redes Sociales;Reservas;Delivery;Tipo de Negocio;Menú del Día
+Picalagartos Sky Bar;Fast Food;Americana;3.6;Plaza de España;102;1962;6;11:30;22:00;Todos;Sí;Sí;Glovo;Independiente;No
+La Primera;Restaurante;Española;2.7;Chueca;165;1955;29;12:00;23:30;Todos;No;No;Uber Eats;Independiente;No
+Gran Vía 18 Restaurante;Restaurante;Repostería;4.4;Chueca;150;2008;47;12:00;23:30;Tarjeta;No;Sí;Ninguno;Franquicia;Sí
+Sky Bar La Catorce;Cafetería;Fusión;3.0;Gran Vía;73;2024;9;7:00;20:00;Tarjeta;No;Sí;Uber Eats;Independiente;Sí
+el.la Sky Bar Madrid;Heladería;Vegana;4.4;Callao;26;2017;6;9:00;22:00;Todos;Sí;No;Uber Eats;Independiente;Sí
+Aollo;Bar;Fusión;4.1;Chueca;42;1966;30;12:30;2:00;Tarjeta;Sí;No;Uber Eats;Independiente;Sí
+MACAO;Fast Food;Americana;2.9;Callao;184;1997;12;12:00;23:00;Efectivo;Sí;No;Ninguno;Franquicia;Sí
+Mercado de la Reina;Fast Food;Americana;4.8;Gran Vía;64;1987;6;11:00;23:00;Tarjeta y Efectivo;Sí;Sí;Ninguno;Franquicia;Sí
+La Esquina del Real;Pastelería;Española;3.6;Sol;24;2011;3;8:00;22:00;Todos;Sí;Sí;Uber Eats;Independiente;No
+Oven Mozzarella Preciados;Restaurante;Repostería;4.5;Chueca;84;1955;27;12:30;23:30;Tarjeta y Efectivo;No;No;Glovo;Independiente;No
+Dani Brasserie;Heladería;Mediterránea;2.8;Chueca;137;1952;7;9:00;20:00;Todos;Sí;No;Glovo;Independiente;Sí
+Le Tavernier;Bar;Mexicana;4.6;Chueca;129;1999;25;12:00;2:00;Tarjeta;No;Sí;Ninguno;Independiente;No
+Inclán Brutal Bar;Pastelería;Vegana;3.1;Plaza de España;35;1969;9;7:00;22:00;Tarjeta y Efectivo;No;Sí;Glovo;Franquicia;Sí
+Steakburger Gran Vía;Fast Food;Mediterránea;3.2;Chueca;100;2010;10;11:00;23:00;Efectivo;No;No;Ninguno;Independiente;Sí
+Casa Lucio;Cafetería;Repostería;3.5;Plaza de España;64;1954;14;7:00;20:00;Todos;No;Sí;Glovo;Independiente;No
+Casa Labra;Restaurante;Mexicana;4.3;Gran Vía;194;1973;50;12:00;23:30;Todos;Sí;Sí;Glovo;Independiente;Sí
+Lhardy;Fast Food;Mediterránea;3.7;Gran Vía;200;1967;8;11:00;0:00;Bizum;Sí;No;Uber Eats;Independiente;Sí
+Museo Chicote;Heladería;Mexicana;3.1;Plaza de España;50;1963;7;8:00;22:00;Todos;Sí;Sí;Glovo;Franquicia;No
+Taberna El Buo;Heladería;Repostería;4.5;Plaza de España;167;2005;10;9:00;22:00;Tarjeta;Sí;No;Ninguno;Franquicia;Sí
+Las Bravas;Bar;Vegana;4.4;Gran Vía;64;1953;29;12:00;0:00;Todos;No;No;Uber Eats;Independiente;No
+El Tigre;Cafetería;Internacional;2.6;Plaza de España;137;2000;11;9:00;22:00;Tarjeta;No;Sí;Ninguno;Independiente;Sí
+Taberna Malaspina;Heladería;Mexicana;4.4;Plaza de España;59;2019;7;8:00;20:00;Efectivo;Sí;Sí;Glovo;Franquicia;Sí
+El Respiro;Heladería;Fusión;2.5;Gran Vía;37;2019;7;8:00;21:00;Efectivo;Sí;Sí;Uber Eats;Independiente;No
+Bodega de la Ardosa;Pastelería;Vegana;4.2;Plaza de España;120;2001;6;8:00;21:00;Tarjeta;Sí;No;Glovo;Independiente;Sí
+El Brillante;Pastelería;Mediterránea;4.9;Gran Vía;70;1960;8;9:00;21:00;Bizum;Sí;No;Glovo;Franquicia;Sí
+Cervecería Alemana;Restaurante;Española;4.4;Gran Vía;55;1993;49;13:00;23:00;Todos;No;No;Uber Eats;Independiente;No
+Casa Revuelta;Cafetería;Mediterránea;4.9;Sol;53;2004;11;7:00;20:00;Efectivo;Sí;Sí;Ninguno;Independiente;Sí
+Starbucks Gran Vía;Pastelería;Española;4.9;Gran Vía;85;1994;7;8:00;22:00;Todos;Sí;Sí;Glovo;Franquicia;No
+Café de la Luz;Cafetería;Americana;3.7;Plaza de España;23;1969;12;8:00;22:00;Tarjeta;No;No;Uber Eats;Independiente;Sí
+Chocolatería San Ginés;Heladería;Italiana;3.9;Plaza de España;19;1983;3;8:00;22:00;Todos;Sí;Sí;Glovo;Independiente;No
+Manolo Bakes;Cafetería;Internacional;4.6;Callao;113;1991;5;7:00;20:00;Tarjeta;No;No;Uber Eats;Franquicia;Sí
+Café Comercial;Heladería;Italiana;2.6;Chueca;135;1979;5;9:00;20:00;Efectivo;Sí;No;Ninguno;Independiente;No
+Café de Oriente;Heladería;Repostería;3.7;Plaza de España;179;1991;6;7:00;21:00;Todos;Sí;Sí;Glovo;Franquicia;Sí
+Café Central;Cafetería;Vegana;2.8;Sol;161;2019;5;7:00;21:00;Tarjeta;Sí;No;Ninguno;Independiente;No
+Federal Café;Pastelería;Mexicana;3.8;Plaza de España;29;1968;3;8:00;22:00;Efectivo;Sí;No;Ninguno;Independiente;Sí
+HanSo Café;Pastelería;Vegana;4.0;Gran Vía;160;1964;10;7:00;20:00;Tarjeta y Efectivo;No;No;Glovo;Franquicia;Sí
+Toma Café;Cafetería;Española;2.9;Gran Vía;149;2020;10;7:00;20:00;Todos;Sí;Sí;Ninguno;Independiente;No
+Amorino Gran Vía;Fast Food;Vegana;3.1;Sol;75;1975;12;11:30;23:00;Todos;No;No;Uber Eats;Independiente;No
+Llaollao Gran Vía;Pastelería;Italiana;3.7;Gran Vía;183;2005;5;9:00;21:00;Todos;Sí;Sí;Glovo;Franquicia;Sí
+Mistura Ice Cream;Fast Food;Mediterránea;2.5;Gran Vía;138;2019;9;12:00;22:00;Efectivo;No;Sí;Uber Eats;Independiente;No
+Giangrossi;Cafetería;Repostería;3.1;Plaza de España;167;1956;6;9:00;21:00;Todos;Sí;Sí;Glovo;Independiente;No
+Los Alpes Helados;Heladería;Internacional;4.6;Callao;35;2009;8;7:00;20:00;Tarjeta;No;No;Ninguno;Franquicia;No
+Heladería Sienna;Cafetería;Vegana;3.5;Plaza de España;15;1986;5;8:00;21:00;Todos;Sí;No;Ninguno;Independiente;Sí
+Rocambolesc Madrid;Fast Food;Mediterránea;4.9;Plaza de España;192;1972;7;12:00;23:00;Todos;Sí;Sí;Glovo;Franquicia;No
+La Pecera Taiyaki;Restaurante;Americana;3.9;Callao;67;2002;50;13:00;2:00;Tarjeta;No;No;Uber Eats;Independiente;Sí
+Ice Wave Madrid;Restaurante;Mediterránea;4.4;Chueca;20;1980;38;12:30;0:00;Efectivo;Sí;No;Ninguno;Independiente;No
+La Mallorquina;Heladería;Mexicana;3.7;Plaza de España;80;2019;5;8:00;20:00;Todos;Sí;Sí;Glovo;Independiente;No
+Moulin Chocolat;Restaurante;Japonesa;2.9;Plaza de España;185;2005;41;12:30;23:00;Todos;No;No;Uber Eats;Independiente;Sí
+Celicioso;Cafetería;Japonesa;3.9;Gran Vía;110;1978;15;8:00;21:00;Todos;Sí;No;Uber Eats;Independiente;Sí
+Horno San Onofre;Heladería;Japonesa;4.5;Chueca;32;1950;6;7:00;20:00;Tarjeta;No;No;Ninguno;Franquicia;No
+Pastelería Mallorca;Restaurante;Japonesa;2.7;Callao;43;1973;47;12:30;23:30;Todos;Sí;Sí;Glovo;Independiente;Sí
+Café del Art;Pastelería;Mexicana;4.6;Sol;25;2007;9;9:00;20:00;Efectivo;Sí;No;Ninguno;Independiente;Sí
+Formentor Pastelería;Heladería;Japonesa;3.0;Gran Vía;196;1992;9;8:00;20:00;Tarjeta;No;Sí;Glovo;Franquicia;Sí
+Panaria Gran Vía;Pastelería;Japonesa;2.7;Callao;137;2004;9;8:00;21:00;Todos;Sí;Sí;Uber Eats;Independiente;No
+Cacao Sampaka;Bar;Americana;3.7;Chueca;57;1956;22;12:30;1:00;Todos;No;No;Ninguno;Independiente;Sí
+McDonald’s Gran Vía;Pastelería;Mediterránea;3.4;Plaza de España;52;1964;10;8:00;22:00;Todos;Sí;Sí;Glovo;Franquicia;Sí
+Burger King Gran Vía;Cafetería;Italiana;3.4;Callao;153;1978;12;7:00;20:00;Efectivo;No;Sí;Uber Eats;Independiente;No
+KFC Gran Vía;Restaurante;Japonesa;4.4;Chueca;161;2020;38;13:00;2:00;Tarjeta y Efectivo;Sí;Sí;Glovo;Franquicia;Sí
+Taco Bell Gran Vía;Bar;Fusión;4.8;Callao;177;1958;22;13:00;2:00;Tarjeta;No;No;Ninguno;Independiente;Sí
+Five Guys Gran Vía;Cafetería;Repostería;3.1;Gran Vía;28;1971;11;7:00;20:00;Todos;Sí;No;Uber Eats;Independiente;No
+Subway Gran Vía;Heladería;Repostería;4.3;Chueca;77;1979;5;7:00;22:00;Tarjeta;No;No;Ninguno;Independiente;Sí
+Udon Noodles Gran Vía;Bar;Fusión;2.7;Gran Vía;96;1998;16;12:00;0:00;Efectivo;Sí;No;Glovo;Franquicia;No
+Popeyes Gran Vía;Cafetería;Mexicana;4.8;Gran Vía;154;2006;6;7:00;22:00;Todos;Sí;Sí;Uber Eats;Independiente;Sí
+Domino’s Pizza Gran Vía;Heladería;Mediterránea;3.9;Gran Vía;100;1968;3;7:00;20:00;Efectivo;Sí;Sí;Glovo;Independiente;No
+Goiko Grill Gran Vía;Restaurante;Mediterránea;3.7;Plaza de España;128;1994;32;12:00;23:30;Todos;Sí;Sí;Glovo;Franquicia;Sí
+Honest Greens Gran Vía;Pastelería;Mediterránea;4.5;Chueca;151;2005;7;8:00;22:00;Todos;No;No;Ninguno;Independiente;No
+Celicioso Tapas;Restaurante;Americana;4.5;Plaza de España;71;1970;36;12:00;2:00;Tarjeta y Efectivo;Sí;Sí;Uber Eats;Franquicia;Sí
+Cacao Sampaka Express;Fast Food;Fusión;4.8;Callao;172;2009;6;11:00;0:00;Todos;Sí;No;Glovo;Independiente;Sí
+Casa Labra Express;Heladería;Japonesa;3.8;Callao;72;1967;9;9:00;22:00;Efectivo;No;No;Ninguno;Independiente;No
+Cervecería Alemana Take Away;Cafetería;Americana;3.7;Sol;199;2000;13;9:00;22:00;Todos;Sí;No;Uber Eats;Independiente;Sí
+MACAO Gourmet;Fast Food;Italiana;4.7;Plaza de España;193;2000;9;12:00;22:00;Todos;Sí;Sí;Glovo;Franquicia;No
+Five Guys Gran Vía Take Away;Fast Food;Japonesa;3.1;Chueca;79;2000;8;11:00;23:00;Tarjeta y Efectivo;No;Sí;Ninguno;Independiente;Sí
+Ice Wave Madrid Bar;Bar;Americana;4.5;Callao;88;1997;30;12:00;23:00;Todos;Sí;Sí;Glovo;Independiente;No
+Café Central Café;Pastelería;Americana;3.0;Callao;172;1965;3;8:00;22:00;Efectivo;Sí;No;Ninguno;Franquicia;Sí
+La Esquina del Real Take Away;Fast Food;Mexicana;3.3;Gran Vía;184;1985;6;11:30;22:00;Todos;No;Sí;Uber Eats;Independiente;No
+Celicioso Tapas Express;Bar;Mediterránea;2.8;Gran Vía;79;1951;19;12:00;23:30;Tarjeta y Efectivo;Sí;Sí;Ninguno;Independiente;Sí
+McDonald’s Gran Vía Café;Pastelería;Española;4.1;Chueca;137;2012;6;7:00;21:00;Todos;Sí;No;Glovo;Franquicia;Sí
+Cervecería Alemana Café;Pastelería;Japonesa;3.3;Chueca;79;1958;5;8:00;20:00;Todos;No;No;Ninguno;Independiente;No
+MACAO Café;Bar;Fusión;2.5;Chueca;163;1969;29;13:00;2:00;Efectivo;Sí;No;Uber Eats;Independiente;Sí
+MACAO Tapas;Heladería;Italiana;3.8;Gran Vía;184;1981;6;7:00;20:00;Tarjeta;No;No;Ninguno;Franquicia;Sí
+Celicioso Tapas Express Tapas;Cafetería;Mexicana;4.1;Sol;51;2015;12;7:00;21:00;Todos;Sí;Sí;Glovo;Independiente;Sí
+Ice Wave Madrid Express;Fast Food;Mexicana;2.5;Sol;63;1967;9;12:00;23:00;Efectivo;No;No;Ninguno;Independiente;No
+Celicioso Restaurante;Fast Food;Repostería;2.9;Gran Vía;123;1986;12;11:00;22:00;Tarjeta y Efectivo;Sí;No;Glovo;Independiente;No
+Dani Brasserie Café;Pastelería;Fusión;4.8;Gran Vía;124;2004;4;9:00;20:00;Efectivo;Sí;No;Ninguno;Franquicia;Sí
+Cervecería Alemana Take Away Restaurante;Bar;Internacional;2.7;Sol;176;1967;17;12:00;0:00;Todos;Sí;Sí;Glovo;Independiente;No
+El Brillante Express;Heladería;Fusión;4.7;Plaza de España;58;1970;10;8:00;21:00;Tarjeta y Efectivo;No;No;Ninguno;Independiente;Sí
+Celicioso Tapas Express Tapas Restaurante;Restaurante;Repostería;3.7;Chueca;19;2011;27;12:30;2:00;Todos;Sí;Sí;Uber Eats;Independiente;Sí
+Five Guys Gran Vía Take Away Café;Fast Food;Internacional;2.5;Chueca;39;1982;7;12:00;22:00;Efectivo;Sí;No;Ninguno;Franquicia;No
+Las Bravas Express;Heladería;Americana;4.3;Callao;135;2020;4;9:00;21:00;Todos;Sí;Sí;Glovo;Independiente;Sí
+Aollo Restaurante;Pastelería;Internacional;3.9;Chueca;30;1951;5;8:00;20:00;Tarjeta;No;No;Ninguno;Independiente;No
+Domino’s Pizza Gran Vía Take Away;Restaurante;Japonesa;4.5;Plaza de España;38;2025;34;13:00;2:00;Todos;Sí;Sí;Uber Eats;Franquicia;Sí
+Udon Noodles Gran Vía Express;Heladería;Española;2.6;Gran Vía;190;2004;6;7:00;22:00;Tarjeta y Efectivo;No;No;Ninguno;Independiente;No
+HanSo Café Bar;Heladería;Italiana;3.4;Chueca;18;2002;7;7:00;22:00;Todos;Sí;No;Uber Eats;Independiente;No
+Taberna El Buo Take Away;Cafetería;Española;3.0;Plaza de España;137;2019;10;7:00;22:00;Efectivo;No;Sí;Glovo;Independiente;Sí
+Moulin Chocolat Restaurante;Fast Food;Americana;4.2;Sol;40;1974;6;12:00;22:00;Todos;Sí;No;Uber Eats;Independiente;No
+MACAO Gourmet Take Away;Heladería;Americana;2.7;Gran Vía;124;1964;5;9:00;22:00;Tarjeta;No;Sí;Ninguno;Independiente;Sí
+Taberna El Buo Bar;Pastelería;Española;3.3;Sol;173;1961;6;7:00;21:00;Todos;Sí;No;Glovo;Franquicia;No
+Granier Gran Vía;Cafetería;Repostería;3.6;Gran Vía;90;2018;6;7:00;21:00;Todos;Sí;Sí;Glovo;Franquicia;Sí
+Juicy Avenue Gran Vía;Fast Food;Internacional;4.1;Callao;55;2021;9;10:00;22:00;Tarjeta;No;Sí;Uber Eats;Independiente;No
+Cereal Hunters Café;Cafetería;Especializada en Cereales;4.3;Chueca;40;2016;8;9:00;22:00;Todos;Sí;Sí;Glovo;Independiente;No
